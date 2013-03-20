@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chessai~source-code-repository/!svn/ver/19/javachess/src/javachess
+END
+R0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/R0.svg
+END
+R1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/R1.svg
+END
+ChessPanelButtons.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chessai~source-code-repository/!svn/ver/20/javachess/src/javachess/ChessPanelButtons.java
+END
+Pawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Pawn.java
+END
+Evaluate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chessai~source-code-repository/!svn/ver/21/javachess/src/javachess/Evaluate.java
+END
+K0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/K0.png
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Queen.java
+END
+K1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/K1.png
+END
+Q0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/Q0.png
+END
+Knight.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Knight.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Bishop.java
+END
+Q1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/Q1.png
+END
+ChessPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chessai~source-code-repository/!svn/ver/2/javachess/src/javachess/ChessPanel.java
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chessai~source-code-repository/!svn/ver/21/javachess/src/javachess/Board.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chessai~source-code-repository/!svn/ver/19/javachess/src/javachess/King.java
+END
+K1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/K1.svg
+END
+Q0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/Q0.svg
+END
+MoveComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chessai~source-code-repository/!svn/ver/21/javachess/src/javachess/MoveComparator.java
+END
+Q1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/Q1.svg
+END
+Evaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Evaluator.java
+END
+B0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/B0.png
+END
+B1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/B1.png
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Location.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Rook.java
+END
+B0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/B0.svg
+END
+N0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/N0.png
+END
+B1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/B1.svg
+END
+N1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/N1.png
+END
+P0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/8/javachess/src/javachess/P0.png
+END
+P1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/8/javachess/src/javachess/P1.png
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chessai~source-code-repository/!svn/ver/20/javachess/src/javachess/Main.java
+END
+R0.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/R0.png
+END
+R1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/R1.png
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chessai~source-code-repository/!svn/ver/19/javachess/src/javachess/Piece.java
+END
+Blank.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chessai~source-code-repository/!svn/ver/18/javachess/src/javachess/Blank.java
+END
+k0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/k0.svg
+END
+N0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/N0.svg
+END
+N1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/N1.svg
+END
+P0.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/P0.svg
+END
+P1.svg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/chessai~source-code-repository/!svn/ver/7/javachess/src/javachess/P1.svg
+END

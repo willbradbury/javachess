@@ -1,0 +1,39 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 45
+/svn/chessai~source-code-repository/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/chessai~source-code-repository/!svn/ver/20/javachess
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/chessai~source-code-repository/!svn/ver/2/javachess/manifest.mf
+END
+chesslog_1333246070656.pgn
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chessai~source-code-repository/!svn/ver/20/javachess/chesslog_1333246070656.pgn
+END
+desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/chessai~source-code-repository/!svn/ver/20/javachess/desktop.ini
+END
+chesslog.pgn
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/chessai~source-code-repository/!svn/ver/20/javachess/chesslog.pgn
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/chessai~source-code-repository/!svn/ver/2/javachess/build.xml
+END
